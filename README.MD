@@ -1,6 +1,6 @@
 # Node JS Avanzado: Curso de Linkedin
 
-![Certificado ](https://github.com/devjaime/JavaScript_avanzado_Buenas_practicas/blob/master/certificado/certificado.png)
+![Certificado ](https://github.com/devjaime/linkedin_nodejs_avanzado/blob/master/certificado/certificado.png)
 ## Contenidos
 
 ### manejo de streams en Node.js
